@@ -1,0 +1,7 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="58" fill="#7c4a32" stroke="#fff" stroke-width="4"/>
+  <path d="M34 68C34 55.2975 44.2975 45 57 45H63C75.7025 45 86 55.2975 86 68C86 80.7025 75.7025 91 63 91H57C44.2975 91 34 80.7025 34 68Z" fill="#ffe8d2"/>
+  <path d="M39 64H81" stroke="#7c4a32" stroke-width="4" stroke-linecap="round"/>
+  <path d="M50 50C50 45.5817 53.5817 42 58 42H62C66.4183 42 70 45.5817 70 50" stroke="#7c4a32" stroke-width="4" stroke-linecap="round"/>
+  <text x="60" y="108" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#fff">Valentine's</text>
+</svg>
